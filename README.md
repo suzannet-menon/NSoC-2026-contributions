@@ -15,7 +15,7 @@ Started with frontend contributions in landing pages, UI components, and layout 
 ### [SkillsSphere-AI](https://github.com/swayam03275/SkillsSphere-AI.git)
 - [PR #186](https://github.com/swayam03275/SkillsSphere-AI/pull/186) - merged - Redesign landing page and improve first-time user experience
 
-## Issues Raised
+## Issues raised
 
 ### [SmartCloset](https://github.com/GHostSr-afk/NEW)
 - [Issue #1](https://github.com/GHostSr-afk/NEW/issues/1#issue-4295047122) - proposed improving signup form by separating it from the login flow
@@ -24,7 +24,7 @@ Started with frontend contributions in landing pages, UI components, and layout 
 - [Issue #35](https://github.com/PrakharDoneria/VivaAI/issues/35) - proposed adding a landing page and onboarding flow for first-time users; maintainer decided not to pursue it
 - [Issue #36](https://github.com/PrakharDoneria/VivaAI/issues/36) - proposed improving the interview interface layout and visual hierarchy; maintainer decided not to pursue it
 
-## Codebases Studied
+## Codebases studied
 
 Briefly explored the following repositories to get familiar with project structure, outside of the ones I raised PRs or issues on.
 
@@ -32,7 +32,7 @@ Briefly explored the following repositories to get familiar with project structu
 - [HEALCONNECT](https://github.com/Dipanita45/HEALCONNECT.git)
 - [NexaSphere](https://github.com/ayush-sharma07/NexaSphere.git)
 
-## Links
+## My profile links
 
 - [GitHub](https://github.com/suzannet-menon)
 - [LinkedIn](https://linkedin.com/in/suzanne-daniel-thomas-313ba4371)
