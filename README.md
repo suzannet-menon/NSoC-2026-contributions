@@ -35,5 +35,5 @@ Briefly explored the following repositories to get familiar with project structu
 ## My profile links
 
 - [GitHub](https://github.com/suzannet-menon)
-- [LinkedIn](https://linkedin.com/in/suzanne-daniel-thomas-313ba4371)
-- [X](https://x.com/Suzanne__e)
+- [LinkedIn](https://www.linkedin.com/in/suzanne-daniel-thomas/)
+- [X / formerly Twitter](https://x.com/Suzanne__e)
